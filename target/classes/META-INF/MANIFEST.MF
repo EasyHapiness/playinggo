@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: playing-go
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: work-pc
+Implementation-Vendor-Id: com.yasong.yin
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/playing-go
+Created-By: Maven Integration for Eclipse
+

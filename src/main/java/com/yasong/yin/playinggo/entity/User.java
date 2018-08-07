@@ -1,0 +1,13 @@
+package com.yasong.yin.playinggo.entity;
+
+import lombok.Data;
+
+@Data
+public class User {
+
+	private Long id;
+	
+	private String realname;
+	
+	private String mobile;
+}
