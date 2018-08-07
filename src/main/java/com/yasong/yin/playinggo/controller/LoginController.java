@@ -16,6 +16,7 @@ public class LoginController extends BaseController{
     @RequestMapping("/login")
     public Object login(){
 
+        logger.info("fdsfdsfsdfsdf");
         return getSuccessResult("","login");
     }
 }
